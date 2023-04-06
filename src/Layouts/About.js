@@ -8,10 +8,10 @@ import AboutImg from "../Elements/About/AboutImg";
 import { RiInstagramLine, RiLinkedinBoxFill, RiMailLine } from "react-icons/ri";
 
 function About({ uiState, setUiState }) {
-    let questionOne = "What is Chilly, exactly?";
+    let questionOne = "What is SoundScape, exactly?";
     let answerOne = "Simply said, it's a music player that doesn't have adverts or other interruptions that enables you to code while listening to relaxed pop music";
     let questionTwo = "Who made this?";
-    let answerTwo = "Sam came up with the project. a computer scientist, developer, and designer who enjoys making amazing internet-based stuff! If you enjoyed what you just saw and want to see more, scroll down to visit his social media accounts!";
+    let answerTwo = "Sam came up with this project. a computer scientist, developer, and designer who enjoys making amazing internet-based stuff! If you enjoyed what you just saw and want to see more, scroll down to visit his social media accounts!";
 
     return (
         <div className={`about ${uiState.aboutShown ? "" : "about--hidden"}`}>
@@ -20,7 +20,7 @@ function About({ uiState, setUiState }) {
                 {/* Need our headline */}
                 <div className="about-group">
                     <p>Hey there,</p>
-                    <AboutHeadline content="Welcome to Chilly" />
+                    <AboutHeadline content="Welcome to SoundScape" />
                 </div>
                 {/* Need img */}
                 <AboutImg />

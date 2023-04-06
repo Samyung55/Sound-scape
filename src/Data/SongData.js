@@ -2,57 +2,57 @@ import { v4 as uuidv4 } from "uuid";
 
 const songData = [
     {
-        title: "Glaciar",
-        artist: "Juan Rios",
+        title: "Sensame",
+        artist: "Ava Ron",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2021/07/4163ebb931e06d4ee8eb184295c0246d4a5055f7-1024x1024.jpg",
+        "https://i.ibb.co/7JS0qWD/Screenshot-2023-04-06-084045.png",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2021/07/4163ebb931e06d4ee8eb184295c0246d4a5055f7-150x150.jpg",
+        "https://i.ibb.co/7JS0qWD/Screenshot-2023-04-06-084045.png",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=21648",
-        palette: "coral",
+        palette: "teal",
         id: uuidv4(),
     },
     {
-        title: "What If I Told You",
-        artist: "Juan Rios",
+        title: "Get to You",
+        artist: "Gi Shin",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2021/07/935da7886600df5eeb2d3b13b12cf27ee8c6c700-1024x1024.jpg",
+        "https://i.ibb.co/K0sSBBS/Screenshot-2023-04-06-084045.png",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2021/07/935da7886600df5eeb2d3b13b12cf27ee8c6c700-150x150.jpg",
+            "https://i.ibb.co/K0sSBBS/Screenshot-2023-04-06-084045.png",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=21649",
-        palette: "yellow",
+        palette: "blue",
         id: uuidv4(),
     },
     {
-        title: "Toofpick",
-        artist: "Blue Wednesday, Shopan",
+        title: "Town Made",
+        artist: "Op Raz, Rodder",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
+            "https://i.ibb.co/w69JJDb/cool-neon-party-tiger-headphones-sunglasses-generative-ai-based-any-actual-scene-108146-4060.jpg",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-150x150.jpg",
+            "https://i.ibb.co/w69JJDb/cool-neon-party-tiger-headphones-sunglasses-generative-ai-based-any-actual-scene-108146-4060.jpg",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=11227",
-        palette: "purple",
+        palette: "teal",
         id: uuidv4(),
     },
     {
         title: "Airplane Mode",
         artist: "Axian, falcxne, Makzo",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2021/06/23b2ff959731b56ea8545828b462311e8b1a2bcc-1024x1024.jpg",
+            "https://i.ibb.co/Rc9N88p/paint-cans-with-human-hand-3d-line-art-design-460848-11261.jpg",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2021/06/23b2ff959731b56ea8545828b462311e8b1a2bcc-150x150.jpg",
+            "https://i.ibb.co/Rc9N88p/paint-cans-with-human-hand-3d-line-art-design-460848-11261.jpg",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=20121",
-        palette: "green",
+        palette: "red",
         id: uuidv4(),
     },
 
     {
-        title: "Antematter",
+        title: "Fashneta",
         artist: "Toonorth",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2021/05/732128e1da8fd5f6292ffc1926a2ea840a54f4d0-1024x1024.jpg",
+            "https://i.ibb.co/Rc5qmYs/rockstar-guy-playing-guitar-vector-illustration-460848-6799.jpg",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2021/05/732128e1da8fd5f6292ffc1926a2ea840a54f4d0-150x150.jpg",
+            "https://i.ibb.co/Rc5qmYs/rockstar-guy-playing-guitar-vector-illustration-460848-6799.jpg",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=17938",
         palette: "purple",
         id: uuidv4(),
