@@ -1,0 +1,11 @@
+import React from "react";
+
+function CopyrightFooter() {
+  return (
+    <footer>
+      <p>&copy; {new Date().getFullYear()} Sam Yung</p>
+    </footer>
+  );
+}
+
+export default CopyrightFooter;
